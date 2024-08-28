@@ -1,0 +1,7 @@
+Interface web pour uploader les fichiers
+Post du fichier et d'une adresse mail pour être averti de la fin du traitement
+
+https://medium.com/intel-analytics-software/automatic-speech-recognition-using-openai-whisper-without-a-gpu-9d316a93860a
+utilisation de whiper V3 sur CPU 
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+puis installation de requirements.txt 
